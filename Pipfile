@@ -8,6 +8,7 @@ django = "*"
 django-cors-headers = "*"
 djangorestframework = "*"
 pusher = "*"
+python-dotenv = "*"
 
 [dev-packages]
 black = "*"
